@@ -1,2 +1,2 @@
-# longfan3.github.io
-[blog](http://finday.cn)
+# [blog](http://finday.cn)
+
